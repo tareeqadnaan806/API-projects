@@ -82,3 +82,13 @@ a{
 .projected{
     margin-right: 200px;
 }
+
+.project:hover{
+    box-shadow: 8px 6px rgb(136, 136, 10) !important;
+    background-color: #0b1b3b;
+}
+
+.quote:hover{
+    background-color: #2c4b8a;
+    border-radius: 10px;
+}
